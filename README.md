@@ -1,4 +1,4 @@
-  <table>
+  <table width="100%">
     <tbody>
     <tr>
       <td width="60%" valign="top">TODO</td>
