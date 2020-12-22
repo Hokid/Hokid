@@ -1,9 +1,5 @@
 <img width="100%" src="1604091989272.jpg"/>
 
-<h3 align="center">My Works</h3>
-
-</hr>
-
 <p align="center">
     <a href="https://github.com/Hokid/vue-loaders">vue-loaders</a></br>
     <a href="https://github.com/Hokid/shikimorist">shikimorist</a></br>
