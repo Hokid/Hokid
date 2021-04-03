@@ -17,4 +17,5 @@
     <a href="https://github.com/org-redtea/wod">wod</a></br>
     <a href="https://github.com/org-redtea/semint">semint</a></br>
     <a href="https://github.com/org-redtea/firestore-advanced-query">firestore-advanced-query</a></br>
+    <a href="https://github.com/org-redtea/craco-parameter-decorator">craco-parameter-decorator</a></br>
 </p>
